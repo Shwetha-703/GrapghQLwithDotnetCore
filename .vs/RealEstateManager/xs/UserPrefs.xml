@@ -1,8 +1,33 @@
-﻿<Properties StartupConfiguration="{D6A0F2B7-2F26-41F4-8946-12C73185C217}|https">
-  <MonoDevelop.Ide.ItemProperties.RealEstateManager.Types FirstBuild="True" />
+﻿<Properties StartupConfiguration="{FD3F2800-DBFB-4932-96D1-80D6D9BDDBE7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.RealEstateManager.DataAccess FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.RealEstateManager.Database FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.RealEstateManager.Utilities FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.RealEstateManager FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealEstateManager/Startup.cs">
+    <Files>
+      <File FileName="RealEstateManager/Startup.cs" Line="49" Column="1" />
+      <File FileName="RealEstateManager.DataAccess/obj/Debug/net5.0/RealEstateManager.DataAccess.GlobalUsings.g.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RealEstateManager" expanded="True">
+            <Node name="RealEstateManager" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="RealEstateManager.DataAccess" expanded="True" />
+            <Node name="RealEstateManager.Database" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="RealEstateManager.Types" expanded="True" />
+            <Node name="RealEstateManager.Utilities" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
 </Properties>

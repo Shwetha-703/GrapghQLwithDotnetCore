@@ -1,11 +1,19 @@
 ﻿using System;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+using RealEstateManager.Database.Models;
+
 namespace RealEstateManager.Database
 {
-	public class RealEstateContext
-	{
-		public RealEstateContext()
-		{
-		}
-	}
+    public class RealEstateContext : DbContext
+    {
+        public RealEstateContext(DbContextOptions<RealEstateContext> options) : base(options)
+        {
+        }
+
+        public DbSet<Property> Properties { get; set; }
+
+        public DbSet<Payment> Payments { get; set; }
+    }
 }
 

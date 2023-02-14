@@ -1,0 +1,5 @@
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net5.0/RealEstateManager.DataAccess.csproj.AssemblyReference.cache
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net5.0/RealEstateManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net5.0/RealEstateManager.DataAccess.AssemblyInfoInputs.cache
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net5.0/RealEstateManager.DataAccess.AssemblyInfo.cs
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net5.0/RealEstateManager.DataAccess.csproj.CoreCompileInputs.cache

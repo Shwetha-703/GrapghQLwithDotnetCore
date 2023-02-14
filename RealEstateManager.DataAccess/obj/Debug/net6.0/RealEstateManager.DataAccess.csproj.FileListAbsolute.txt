@@ -1,0 +1,12 @@
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/bin/Debug/net6.0/RealEstateManager.DataAccess.deps.json
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/bin/Debug/net6.0/RealEstateManager.DataAccess.dll
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/bin/Debug/net6.0/RealEstateManager.DataAccess.pdb
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net6.0/RealEstateManager.DataAccess.csproj.AssemblyReference.cache
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net6.0/RealEstateManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net6.0/RealEstateManager.DataAccess.AssemblyInfoInputs.cache
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net6.0/RealEstateManager.DataAccess.AssemblyInfo.cs
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net6.0/RealEstateManager.DataAccess.csproj.CoreCompileInputs.cache
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net6.0/RealEstateManager.DataAccess.dll
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net6.0/refint/RealEstateManager.DataAccess.dll
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net6.0/RealEstateManager.DataAccess.pdb
+/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.DataAccess/obj/Debug/net6.0/ref/RealEstateManager.DataAccess.dll

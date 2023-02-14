@@ -4,6 +4,73 @@
     "/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager/RealEstateManager.csproj": {}
   },
   "projects": {
+    "/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.Database/RealEstateManager.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.Database/RealEstateManager.Database.csproj",
+        "projectName": "RealEstateManager.Database",
+        "projectPath": "/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.Database/RealEstateManager.Database.csproj",
+        "packagesPath": "/Users/prashanthumney/.nuget/packages/",
+        "outputPath": "/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.Database/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/prashanthumney/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager/RealEstateManager.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -17,15 +84,19 @@
           "/Users/prashanthumney/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {}
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.Database/RealEstateManager.Database.csproj": {
+                "projectPath": "/Users/prashanthumney/Shweta2023/RealEstateManager/RealEstateManager.Database/RealEstateManager.Database.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -35,8 +106,14 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
