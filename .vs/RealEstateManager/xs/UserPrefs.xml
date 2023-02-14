@@ -1,0 +1,8 @@
+﻿<Properties StartupConfiguration="{D6A0F2B7-2F26-41F4-8946-12C73185C217}|https">
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager.Types FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager.DataAccess FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager.Database FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager.Utilities FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
